@@ -1,8 +1,8 @@
-program ID2017_Benchmarking;
+program ID2017_Enfileirador;
 
 uses
   Vcl.Forms,
-  Benchmarking.Main in 'Benchmarking.Main.pas' {Form1};
+  Unit1 in 'Unit1.pas' {Form1};
 
 {$R *.res}
 
