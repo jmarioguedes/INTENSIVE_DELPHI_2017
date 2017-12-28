@@ -1,4 +1,4 @@
-program Project1;
+program ID2017_PUBSUB;
 
 uses
   Vcl.Forms,
